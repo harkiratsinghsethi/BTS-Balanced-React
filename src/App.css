@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.balanceButton {
+  padding: 5px;
+  margin: 10px;
+
+}
+
+
 
 @keyframes App-logo-spin {
   from {
